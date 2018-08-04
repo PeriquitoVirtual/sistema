@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53b41359-f270-4c12-8f49-25b8d942db8e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/phpoo2/public/bootstrap/grid.php" afterPath="$PROJECT_DIR$/phpoo2/public/bootstrap/grid.php" />
+      <change beforePath="$PROJECT_DIR$/phpoo2/public/bootstrap/images.php" afterPath="$PROJECT_DIR$/phpoo2/public/bootstrap/images.php" />
+      <change beforePath="$PROJECT_DIR$/phpoo2/public/bootstrap/listas.php" afterPath="$PROJECT_DIR$/phpoo2/public/bootstrap/listas.php" />
+      <change beforePath="$PROJECT_DIR$/phpoo2/public/bootstrap/modal.php" afterPath="$PROJECT_DIR$/phpoo2/public/bootstrap/modal.php" />
+      <change beforePath="$PROJECT_DIR$/phpoo2/public/bootstrap/painel.php" afterPath="$PROJECT_DIR$/phpoo2/public/bootstrap/painel.php" />
+      <change beforePath="$PROJECT_DIR$/phpoo2/public/bootstrap/tabs.php" afterPath="$PROJECT_DIR$/phpoo2/public/bootstrap/tabs.php" />
+      <change beforePath="$PROJECT_DIR$/phpoo2/public/index.php" afterPath="$PROJECT_DIR$/phpoo2/public/index.php" />
+      <change beforePath="$PROJECT_DIR$/phpoo2/public/pedidoMultiplo.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/phpoo2/public/view/list.pedidos.php" afterPath="$PROJECT_DIR$/phpoo2/public/view/list.pedidos.php" />
+      <change beforePath="$PROJECT_DIR$/phpoo2/public/view/list.pedidosMultiplos.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/phpoo2/public/view/list.pessoas.php" afterPath="$PROJECT_DIR$/phpoo2/public/view/list.pessoas.php" />
+      <change beforePath="$PROJECT_DIR$/phpoo2/src/Source/ServicePedido.php" afterPath="$PROJECT_DIR$/phpoo2/src/Source/ServicePedido.php" />
+    </list>
+    <ignored path="phpoo2.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/phpoo2/composer.json</pharConfigPath>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="phpoo2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>inscre</find>
+      <find>mymodal</find>
+      <find>modal</find>
+      <find>palestr</find>
+      <find>ver a</find>
+      <find>99</find>
+      <find>não perc</find>
+      <find>PARTICIPE!</find>
+      <find>CARLOS MELLINGER</find>
+      <find>Add</find>
+      <find>Add to ca</find>
+      <find>periquitovirtu</find>
+      <find>inpu</find>
+      <find>parceiros</find>
+      <find>impo</find>
+      <find>cart</find>
+      <find>Convidadeos</find>
+      <find>PROGRAMAS</find>
+      <find>textarea</find>
+      <find>email</find>
+      <find>input</find>
+      <find>Não perca essa oportunidade</find>
+      <find>Agenda</find>
+      <find>product</find>
+      <find>saferoo</find>
+      <find>saferoom</find>
+      <find>ferb</find>
+      <find>redebl</find>
+      <find>twel</find>
+      <find>+ 1 Sachê de Chia</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/phpoo2" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/style 2.css" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/bootstrap.min.css" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/event.html" />
+        <option value="G:/AZURE/BACKUPS/sericolor/style.css" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/style 3.css" />
+        <option value="$PROJECT_DIR$/phpoo2/src/Source/ServiceProduto.php" />
+        <option value="$PROJECT_DIR$/phpoo2/public/js/scripts.js" />
+        <option value="$PROJECT_DIR$/phpoo2/public/listaProduto.php" />
+        <option value="$PROJECT_DIR$/phpoo2/src/Source/ServicePedido.php" />
+        <option value="$PROJECT_DIR$/phpoo2/public/index.php" />
+        <option value="$PROJECT_DIR$/phpoo2/public/view/list.pessoas.php" />
+        <option value="$PROJECT_DIR$/phpoo2/public/view/list.pedidos.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/bootstrap.min.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/tipsy.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/helper.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/footer.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/footer 3.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/plugins.css" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/gmap3.min.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/post-options.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/main.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/plugins 2.css" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/event-ticket.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/index 2.html" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/saferoom.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/style.css" />
+        <option value="$PROJECT_DIR$/phpoo2/public/bootstrap/tabs.php" />
+        <option value="$PROJECT_DIR$/phpoo2/public/bootstrap/painel.php" />
+        <option value="$PROJECT_DIR$/phpoo2/public/bootstrap/modal.php" />
+        <option value="$PROJECT_DIR$/phpoo2/public/bootstrap/grid.php" />
+        <option value="$PROJECT_DIR$/phpoo2/public/bootstrap/listas.php" />
+        <option value="$PROJECT_DIR$/phpoo2/public/bootstrap/images.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/bootstrap.css" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/index.html" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/Mobile_Detect.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/index.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/loop-grid.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/content-rsidebar.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/.htaccess" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/wp-config.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/config.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/list.produtos.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/wc-correios-functions.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/wc-correios-functions.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/futurama-fan-fic.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/style.css" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/functions.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/header.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/index.html" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/wp-config 2.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/header.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="$PROJECT_DIR$/phpoo2/vendor/pimple/pimple" />
+      <path value="$PROJECT_DIR$/phpoo2/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1924" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="phpoo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phpoo2" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="phpoo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phpoo2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="phpoo2" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="phpoo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phpoo2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="phpoo2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="phpoo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phpoo2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="phpoo2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="phpoo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phpoo2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="phpoo2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Source" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Periquito\Wamp\www\phpoo2\phpoo2\public\bootstrap" />
+      <recent name="C:\Users\Periquito\Wamp\www\phpoo2\phpoo2\public\img" />
+      <recent name="C:\Users\Periquito\Wamp\www\phpoo2\phpoo2\public\view" />
+      <recent name="C:\Users\Periquito\Wamp\www\phpoo2\phpoo2\public" />
+      <recent name="C:\Users\Periquito\Wamp\www\phpoo2\public\src\Source" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Periquito\Documents" />
+      <recent name="C:\Users\Periquito\Wamp\www\phpoo2\phpoo2\public" />
+      <recent name="C:\Users\Periquito\Wamp\www\phpoo2\phpoo2\src\Source" />
+      <recent name="C:\Users\Periquito\Wamp\www\phpoo2\phpoo2\public\view" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="grid.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost/phpoo2/public/bootstrap/grid.php" />
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.grid.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53b41359-f270-4c12-8f49-25b8d942db8e" name="Default" comment="" />
+      <created>1488147146073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1488147146073</updated>
+      <workItem from="1488147147402" duration="5934000" />
+      <workItem from="1488197574546" duration="13575000" />
+      <workItem from="1488285235949" duration="9048000" />
+      <workItem from="1488308394253" duration="1247000" />
+      <workItem from="1488397337992" duration="202000" />
+      <workItem from="1488891962657" duration="613000" />
+      <workItem from="1489602538319" duration="7939000" />
+      <workItem from="1489666262506" duration="6153000" />
+      <workItem from="1489749024126" duration="16387000" />
+      <workItem from="1489847985301" duration="3208000" />
+      <workItem from="1489929231356" duration="1281000" />
+      <workItem from="1490102290392" duration="4056000" />
+      <workItem from="1490188713549" duration="2750000" />
+      <workItem from="1490272096895" duration="596000" />
+      <workItem from="1490307578484" duration="5028000" />
+      <workItem from="1490358482004" duration="1488000" />
+      <workItem from="1490448620412" duration="15381000" />
+      <workItem from="1490539411320" duration="8143000" />
+      <workItem from="1490617453838" duration="6159000" />
+      <workItem from="1490706495123" duration="7144000" />
+      <workItem from="1490812235607" duration="704000" />
+      <workItem from="1490873808546" duration="1049000" />
+      <workItem from="1490961978383" duration="6971000" />
+      <workItem from="1491048711283" duration="19487000" />
+      <workItem from="1491188303377" duration="650000" />
+      <workItem from="1491312532901" duration="22174000" />
+      <workItem from="1491400001573" duration="9466000" />
+      <workItem from="1491488817245" duration="11101000" />
+      <workItem from="1491615083025" duration="25489000" />
+      <workItem from="1491744104792" duration="2110000" />
+      <workItem from="1492571541736" duration="32000" />
+      <workItem from="1492636413618" duration="380000" />
+      <workItem from="1492699061380" duration="230000" />
+      <workItem from="1492781931629" duration="4072000" />
+      <workItem from="1492811072730" duration="3568000" />
+      <workItem from="1492861421065" duration="1268000" />
+      <workItem from="1492948867479" duration="601000" />
+      <workItem from="1493314578855" duration="845000" />
+      <workItem from="1493390534429" duration="13000" />
+      <workItem from="1493427784779" duration="1137000" />
+      <workItem from="1493428995825" duration="643000" />
+      <workItem from="1493471844609" duration="6893000" />
+      <workItem from="1493556194436" duration="15791000" />
+      <workItem from="1493639391918" duration="13977000" />
+      <workItem from="1493676577060" duration="3786000" />
+      <workItem from="1493684438702" duration="1814000" />
+      <workItem from="1493725782715" duration="10981000" />
+      <workItem from="1493818363564" duration="7707000" />
+      <workItem from="1493906059431" duration="4944000" />
+      <workItem from="1493985075956" duration="3216000" />
+      <workItem from="1494003644210" duration="6441000" />
+      <workItem from="1494097282106" duration="1107000" />
+      <workItem from="1494103456301" duration="4500000" />
+      <workItem from="1494160590705" duration="3080000" />
+      <workItem from="1494251113701" duration="2561000" />
+      <workItem from="1494334262555" duration="892000" />
+      <workItem from="1494364969826" duration="3237000" />
+      <workItem from="1494418576313" duration="6581000" />
+      <workItem from="1494463054178" duration="658000" />
+      <workItem from="1494503719436" duration="1284000" />
+      <workItem from="1494591462353" duration="3550000" />
+      <workItem from="1494699993299" duration="5760000" />
+      <workItem from="1494854006059" duration="3098000" />
+      <workItem from="1494936957496" duration="747000" />
+      <workItem from="1495056226592" duration="5000" />
+      <workItem from="1495131416155" duration="597000" />
+      <workItem from="1495282304514" duration="598000" />
+      <workItem from="1495548287735" duration="105000" />
+      <workItem from="1499391162173" duration="2010000" />
+      <workItem from="1499468736094" duration="4341000" />
+      <workItem from="1499635471378" duration="2592000" />
+      <workItem from="1499710445917" duration="1097000" />
+      <workItem from="1499731513837" duration="110000" />
+      <workItem from="1499786744705" duration="11113000" />
+      <workItem from="1499950845397" duration="614000" />
+      <workItem from="1502067665949" duration="597000" />
+      <workItem from="1502112462595" duration="6296000" />
+      <workItem from="1502196310320" duration="5652000" />
+      <workItem from="1502293504476" duration="2750000" />
+      <workItem from="1530135168065" duration="875000" />
+      <workItem from="1530392984121" duration="948000" />
+      <workItem from="1530713980361" duration="8922000" />
+      <workItem from="1530815234736" duration="5152000" />
+      <workItem from="1531143917947" duration="5165000" />
+      <workItem from="1531326529638" duration="2244000" />
+      <workItem from="1531496839523" duration="3060000" />
+      <workItem from="1532976840624" duration="2468000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="408238000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22761194" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19805194" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19826652" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18923241" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/style.css" />
+    <entry file="file://$PROJECT_DIR$/phpoo2/public/bootstrap/tabs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpoo2/public/bootstrap/painel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpoo2/public/bootstrap/modal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpoo2/public/bootstrap/listas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpoo2/public/view/list.pedidos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="81" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpoo2/public/bootstrap/images.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="29" lean-forward="false" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpoo2/public/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="54" lean-forward="false" selection-start-line="41" selection-start-column="54" selection-end-line="41" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpoo2/public/bootstrap/grid.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpoo2/public/bootstrap/formulario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/bootstrap.css" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/malware.txt" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/single.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/page.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/Mobile_Detect.php" />
+    <entry file="file://$USER_HOME$/Documents/Mobile_Detect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/loop-grid.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/content-rsidebar.php" />
+    <entry file="file://$PROJECT_DIR$/phpoo2/src/Source/ServicePedido.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpoo2/src/Source/IConn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpoo2/src/Source/Conn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpoo2/public/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpoo2/src/Source/Pedido.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/Conn.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/list.produto.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/list.pessoas.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/config.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/list.produtos.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/woocommerce.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/email.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/woocommerce-correios.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/wc-correios-functions.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/email.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/sidebar-archive.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/wp-config.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/.htaccess 2" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/woocommerce-correios.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/wc-correios-functions.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/futurama-fan-fic.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/style.css" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/.htaccess" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="370" column="0" lean-forward="false" selection-start-line="370" selection-start-column="0" selection-end-line="370" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/wp-config 2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="92" column="20" lean-forward="false" selection-start-line="92" selection-start-column="20" selection-end-line="92" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/futurama-fan-fic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="100" column="0" lean-forward="false" selection-start-line="100" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="660" column="121" lean-forward="false" selection-start-line="660" selection-start-column="17" selection-end-line="660" selection-end-column="121" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="39" column="36" lean-forward="false" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#noscript#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
